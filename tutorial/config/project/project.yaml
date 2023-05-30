@@ -1,0 +1,22 @@
+dateModified: 1685483255
+email:
+  fromEmail: peter.n.fleming@gmail.com
+  fromName: tutorial
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    667fd356-206d-41dc-bf36-fb1df5ec7f7a: tutorial # tutorial
+    81795079-c63a-4221-ad12-2153fd7bb813: tutorial # tutorial
+    c0cad7c6-d7ec-43c7-a276-763e32943800: Common # Common
+system:
+  edition: solo
+  live: true
+  name: tutorial
+  schemaVersion: 4.4.0.4
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
