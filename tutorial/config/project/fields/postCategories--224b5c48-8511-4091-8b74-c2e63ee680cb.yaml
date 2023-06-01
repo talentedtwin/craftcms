@@ -1,0 +1,23 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: b9fddd72-409c-471c-9b84-0f6db2d569e9 # Blog
+handle: postCategories
+instructions: null
+name: 'Post Categories'
+searchable: false
+settings:
+  allowSelfRelations: false
+  branchLimit: null
+  localizeRelations: false
+  maintainHierarchy: false
+  maxRelations: null
+  minRelations: null
+  selectionLabel: null
+  showSiteMenu: false
+  source: 'group:6e9c8123-a5de-46e3-9b47-0dfc6a9eeb7d' # Topics
+  targetSiteId: null
+  validateRelatedElements: false
+  viewMode: null
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Categories

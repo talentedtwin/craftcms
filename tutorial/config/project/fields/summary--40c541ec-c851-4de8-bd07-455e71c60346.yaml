@@ -1,0 +1,19 @@
+columnSuffix: vemvwsov
+contentColumnType: text
+fieldGroup: b9fddd72-409c-471c-9b84-0f6db2d569e9 # Blog
+handle: summary
+instructions: 'Summaries should be one or two sentences.'
+name: Summary
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 1
+  multiline: true
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

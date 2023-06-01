@@ -1,13 +1,39 @@
-dateModified: 1685483255
+dateModified: 1685625892
 email:
   fromEmail: peter.n.fleming@gmail.com
   fromName: tutorial
   transportType: craft\mail\transportadapters\Sendmail
+fs:
+  hardDisk:
+    hasUrls: true
+    name: 'Hard Disk'
+    settings:
+      path: '@webroot/uploads/images'
+    type: craft\fs\Local
+    url: '@web/uploads/images'
 meta:
   __names__:
-    667fd356-206d-41dc-bf36-fb1df5ec7f7a: tutorial # tutorial
-    81795079-c63a-4221-ad12-2153fd7bb813: tutorial # tutorial
-    c0cad7c6-d7ec-43c7-a276-763e32943800: Common # Common
+    3dc47c12-857f-4548-82de-3d0e23beda37: Images # Images
+    4b0a7e0b-ed9b-4b3a-8c59-13acfddbdea1: Text # Text
+    6e9c8123-a5de-46e3-9b47-0dfc6a9eeb7d: Topics # Topics
+    7c38c861-9971-40c9-8938-8066391bc4b5: 'Post Content' # Post Content
+    30f1f990-2f0f-493e-841f-713b1a26252a: Image # Image
+    40c541ec-c851-4de8-bd07-455e71c60346: Summary # Summary
+    62f2a1ab-a102-4d70-8b76-3a20820df9d7: tutorial # tutorial
+    68c8b94d-e4a8-4d31-a55b-8eba9d7745a5: Blog # Blog
+    224b5c48-8511-4091-8b74-c2e63ee680cb: 'Post Categories' # Post Categories
+    760153a3-3abd-4900-8448-46ea71a12960: Simple # Simple
+    9891831f-6e34-4c2f-a7ec-2ebd9681d85f: tutorial # tutorial
+    b9fddd72-409c-471c-9b84-0f6db2d569e9: Blog # Blog
+    b75793d7-06c5-4463-83c0-5eb3fcf4b742: Common # Common
+    c4201f38-9172-4af7-993d-95b6f53da6aa: Text # Text
+    e095f5a3-1702-443c-a46d-a2fb207e728f: 'Feature Image' # Feature Image
+    fbac95f6-780c-4727-a735-0082883d4192: Post # Post
+plugins:
+  ckeditor:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.0.0
 system:
   edition: solo
   live: true

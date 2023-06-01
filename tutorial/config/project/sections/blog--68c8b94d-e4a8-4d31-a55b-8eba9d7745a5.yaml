@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: blog
+name: Blog
+propagationMethod: all
+siteSettings:
+  62f2a1ab-a102-4d70-8b76-3a20820df9d7: # tutorial
+    enabledByDefault: true
+    hasUrls: true
+    template: blog/_entry
+    uriFormat: 'blog/{slug}'
+type: channel
