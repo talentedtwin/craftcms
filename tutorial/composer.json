@@ -2,6 +2,7 @@
   "require": {
     "craftcms/ckeditor": "^3.4",
     "craftcms/cms": "^4.4.0",
+    "vaersaagod/seomate": "^2.1",
     "vlucas/phpdotenv": "^5.4.0"
   },
   "require-dev": {
