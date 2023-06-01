@@ -7,9 +7,13 @@
 
   <div class="about">
     {% if profilePhoto %}
-      <div class="photo">
-        {{ profilePhoto.getImg() }}
-      </div>
+        <div class="photo">
+            {{ profilePhoto.getImg({
+                mode: 'crop',
+                width: 360,
+                height: 360,
+            }) }}
+        </div>
     {% endif %}
 
     <div class="bio">

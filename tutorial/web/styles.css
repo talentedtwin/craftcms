@@ -7,7 +7,7 @@
     --layout-site-gutter: 2rem;
     --layout-site-section-spacer: 6rem;
     --layout-site-width: 40rem;
-    --type-system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    --type-system-ui:  Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     --type-technical: monospace;
 }
 
@@ -143,6 +143,12 @@ article a {
 
 .content-block {
     margin-bottom: var(--layout-site-gutter);
+}
+
+.content-block.image {
+    background-color: #EEE;
+    padding: var(--layout-site-gutter);
+    transform: rotate(-1deg);
 }
 
 .content-block.unsupported {
