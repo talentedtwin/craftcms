@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: about
+name: About
+propagationMethod: all
+siteSettings:
+  62f2a1ab-a102-4d70-8b76-3a20820df9d7: # tutorial
+    enabledByDefault: true
+    hasUrls: true
+    template: _singles/about
+    uriFormat: about
+type: single

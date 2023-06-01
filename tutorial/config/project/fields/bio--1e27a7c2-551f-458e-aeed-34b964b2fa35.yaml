@@ -1,0 +1,19 @@
+columnSuffix: oyhgcags
+contentColumnType: text
+fieldGroup: b6b431cb-aeba-48ed-a95e-36d2b4a735c1 # About
+handle: bio
+instructions: null
+name: Bio
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 8
+  multiline: true
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

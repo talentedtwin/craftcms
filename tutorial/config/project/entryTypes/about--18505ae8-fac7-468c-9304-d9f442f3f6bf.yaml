@@ -1,0 +1,67 @@
+fieldLayouts:
+  009ea905-cd02-4ced-af09-179fbab8b959:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 196303e4-bf9f-4021-b099-cc268f949277
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 1e27a7c2-551f-458e-aeed-34b964b2fa35 # Bio
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: f17e5fc6-6164-4aea-b5ab-16ea636fb7a2
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 0fb67600-c6dc-499f-b1bb-1af7cc17ff6b # Profile Photo
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 275cdc52-2ca0-4582-a1f9-827f8608b203
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 4c0d05af-2f0d-4692-bf27-ae5380c4ba97
+        userCondition: null
+handle: about
+hasTitleField: false
+name: About
+section: 7ed5a12b-c271-4c32-9c4a-c5c5b9a6231c # About
+sortOrder: 1
+titleFormat: '{section.name|raw}'
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

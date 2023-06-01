@@ -1,4 +1,4 @@
-dateModified: 1685625892
+dateModified: 1685629244
 email:
   fromEmail: peter.n.fleming@gmail.com
   fromName: tutorial
@@ -13,20 +13,30 @@ fs:
     url: '@web/uploads/images'
 meta:
   __names__:
+    0fb67600-c6dc-499f-b1bb-1af7cc17ff6b: 'Profile Photo' # Profile Photo
+    1e27a7c2-551f-458e-aeed-34b964b2fa35: Bio # Bio
     3dc47c12-857f-4548-82de-3d0e23beda37: Images # Images
     4b0a7e0b-ed9b-4b3a-8c59-13acfddbdea1: Text # Text
     6e9c8123-a5de-46e3-9b47-0dfc6a9eeb7d: Topics # Topics
     7c38c861-9971-40c9-8938-8066391bc4b5: 'Post Content' # Post Content
+    7ed5a12b-c271-4c32-9c4a-c5c5b9a6231c: About # About
+    9acf40d6-7d43-418c-a903-da3cdc212e80: Quote # Quote
+    13ab5427-7040-46f5-a477-6c607843a5db: 'Site Info' # Site Info
     30f1f990-2f0f-493e-841f-713b1a26252a: Image # Image
     40c541ec-c851-4de8-bd07-455e71c60346: Summary # Summary
     62f2a1ab-a102-4d70-8b76-3a20820df9d7: tutorial # tutorial
     68c8b94d-e4a8-4d31-a55b-8eba9d7745a5: Blog # Blog
     224b5c48-8511-4091-8b74-c2e63ee680cb: 'Post Categories' # Post Categories
+    18505ae8-fac7-468c-9304-d9f442f3f6bf: About # About
     760153a3-3abd-4900-8448-46ea71a12960: Simple # Simple
     9891831f-6e34-4c2f-a7ec-2ebd9681d85f: tutorial # tutorial
+    a08d3477-06fe-4aee-a3c7-f2bc843bee30: Global # Global
+    b6b431cb-aeba-48ed-a95e-36d2b4a735c1: About # About
     b9fddd72-409c-471c-9b84-0f6db2d569e9: Blog # Blog
     b75793d7-06c5-4463-83c0-5eb3fcf4b742: Common # Common
+    bfa4ba11-eaf9-4283-998a-211f2ca55c60: Description # Description
     c4201f38-9172-4af7-993d-95b6f53da6aa: Text # Text
+    d4602521-9bc3-45a4-b0c6-6abbbb9b18e2: Quote # Quote
     e095f5a3-1702-443c-a46d-a2fb207e728f: 'Feature Image' # Feature Image
     fbac95f6-780c-4727-a735-0082883d4192: Post # Post
 plugins:
