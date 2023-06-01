@@ -1,4 +1,4 @@
-dateModified: 1685634843
+dateModified: 1685637597
 email:
   fromEmail: peter.n.fleming@gmail.com
   fromName: tutorial
@@ -17,29 +17,46 @@ meta:
     1e27a7c2-551f-458e-aeed-34b964b2fa35: Bio # Bio
     3dc47c12-857f-4548-82de-3d0e23beda37: Images # Images
     4b0a7e0b-ed9b-4b3a-8c59-13acfddbdea1: Text # Text
+    4b7d2b5f-cb80-442f-9c5d-7a666ed3d078: Text # Text
     04da89f2-3a77-428d-901f-3c35f0ccb546: Standard # Standard
     5bd68a93-167e-4584-8593-8b091fe3cfb0: Thumbnail # Thumbnail
     6e9c8123-a5de-46e3-9b47-0dfc6a9eeb7d: Topics # Topics
     7c38c861-9971-40c9-8938-8066391bc4b5: 'Post Content' # Post Content
     7ed5a12b-c271-4c32-9c4a-c5c5b9a6231c: About # About
+    8b383f81-19ad-4ada-a52c-77b7ad98c94d: Image # Image
+    9a6cb6d2-423e-4cea-89c9-0a99e1a1fe27: Text # Text
     9acf40d6-7d43-418c-a903-da3cdc212e80: Quote # Quote
+    9dc15faf-1dcd-4339-9be9-55d8240cd0bf: 'Column Text Image 5050' # Column Text Image 5050
     13ab5427-7040-46f5-a477-6c607843a5db: 'Site Info' # Site Info
+    26c1d26d-1172-4963-8c3f-3fe6e3bfc1c4: 'Column Text 7525' # Column Text 7525
     30f1f990-2f0f-493e-841f-713b1a26252a: Image # Image
     40c541ec-c851-4de8-bd07-455e71c60346: Summary # Summary
     62f2a1ab-a102-4d70-8b76-3a20820df9d7: tutorial # tutorial
     68c8b94d-e4a8-4d31-a55b-8eba9d7745a5: Blog # Blog
     224b5c48-8511-4091-8b74-c2e63ee680cb: 'Post Categories' # Post Categories
+    404dca4f-574e-4efc-ac08-72a4734ad700: 'Page Builder' # Page Builder
+    431c3b1d-68ff-4fcc-b722-079aefbf9e46: 'Text 2' # Text 2
+    890e6235-a6e5-44a6-a3e8-700e22a96661: 'Column Text 5050' # Column Text 5050
     18505ae8-fac7-468c-9304-d9f442f3f6bf: About # About
     760153a3-3abd-4900-8448-46ea71a12960: Simple # Simple
+    3285737a-1db4-4f9d-8546-eed9f2d80840: 'Text 2' # Text 2
     9891831f-6e34-4c2f-a7ec-2ebd9681d85f: tutorial # tutorial
     a08d3477-06fe-4aee-a3c7-f2bc843bee30: Global # Global
+    a3ce9648-2c26-47cf-84a9-2d66f44b3c72: 'Column Text 1' # Column Text 1
+    abc75faf-39e1-462a-b6ba-4d82318ba95e: 'Text 1' # Text 1
+    abd5c0ac-09dd-4990-9b95-12ebdd8466ce: 'Column Text 2575' # Column Text 2575
+    ad3dbbb1-df03-4faa-8ab8-96031e408d5d: 'Text 1' # Text 1
     b6b431cb-aeba-48ed-a95e-36d2b4a735c1: About # About
     b9fddd72-409c-471c-9b84-0f6db2d569e9: Blog # Blog
     b75793d7-06c5-4463-83c0-5eb3fcf4b742: Common # Common
     bfa4ba11-eaf9-4283-998a-211f2ca55c60: Description # Description
     c4201f38-9172-4af7-993d-95b6f53da6aa: Text # Text
+    d905f71d-f0ad-45d2-8e7b-df3f4a101f9e: 'Text 1' # Text 1
     d4602521-9bc3-45a4-b0c6-6abbbb9b18e2: Quote # Quote
+    da12ce31-1a6f-4d37-b4aa-8c9cd56f7b26: 'Text 2' # Text 2
+    dc6bd857-0e13-4cd0-bfef-a6a854f9c1b5: Home # Home
     e095f5a3-1702-443c-a46d-a2fb207e728f: 'Feature Image' # Feature Image
+    efcf1685-5989-4cec-bb4a-1e0d41435e6b: Home # Home
     fbac95f6-780c-4727-a735-0082883d4192: Post # Post
 plugins:
   ckeditor:

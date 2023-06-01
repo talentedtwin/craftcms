@@ -1,0 +1,84 @@
+field: 404dca4f-574e-4efc-ac08-72a4734ad700 # Page Builder
+fieldLayouts:
+  51842951-5f8e-4a7b-9d1f-48f78fc30f15:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: d905f71d-f0ad-45d2-8e7b-df3f4a101f9e # Text 1
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d14d7f97-a683-4923-9543-33d78fda0b62
+            userCondition: null
+            warning: null
+            width: 25
+          -
+            elementCondition: null
+            fieldUid: 431c3b1d-68ff-4fcc-b722-079aefbf9e46 # Text 2
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 2e5c3993-409a-410e-8b8f-d4aa33bc6aaa
+            userCondition: null
+            warning: null
+            width: 75
+        name: Content
+        uid: 291cf59e-f2aa-429d-92dc-c81b6bcfffe2
+        userCondition: null
+fields:
+  431c3b1d-68ff-4fcc-b722-079aefbf9e46: # Text 2
+    columnSuffix: tzyyimwm
+    contentColumnType: text
+    fieldGroup: null
+    handle: text2
+    instructions: null
+    name: 'Text 2'
+    searchable: false
+    settings:
+      availableTransforms: '*'
+      availableVolumes: '*'
+      ckeConfig: 04da89f2-3a77-428d-901f-3c35f0ccb546 # Standard
+      columnType: text
+      defaultTransform: null
+      enableSourceEditingForNonAdmins: false
+      purifierConfig: null
+      purifyHtml: true
+      showUnpermittedFiles: false
+      showUnpermittedVolumes: false
+      showWordCount: false
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\ckeditor\Field
+  d905f71d-f0ad-45d2-8e7b-df3f4a101f9e: # Text 1
+    columnSuffix: masoqwqu
+    contentColumnType: text
+    fieldGroup: null
+    handle: text1
+    instructions: null
+    name: 'Text 1'
+    searchable: false
+    settings:
+      availableTransforms: '*'
+      availableVolumes: '*'
+      ckeConfig: 04da89f2-3a77-428d-901f-3c35f0ccb546 # Standard
+      columnType: text
+      defaultTransform: null
+      enableSourceEditingForNonAdmins: false
+      purifierConfig: null
+      purifyHtml: true
+      showUnpermittedFiles: false
+      showUnpermittedVolumes: false
+      showWordCount: false
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\ckeditor\Field
+handle: columnText2575
+name: 'Column Text 2575'
+sortOrder: 3
