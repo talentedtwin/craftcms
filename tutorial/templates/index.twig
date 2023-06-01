@@ -1,6 +1,9 @@
+{% extends '_layout' %}
+
 {# This is a comment in Twig! It won’t appear in the HTML output. #}
 
 {# Here’s some text, dynamically inserted into an HTML tag: #}
+{% block content %}
 <h1>{{ siteName }}</h1>
 
 {# What about a dynamic value? #}
@@ -22,3 +25,4 @@
     </li>
   {% endfor %}
 </ul>
+{% endblock %}

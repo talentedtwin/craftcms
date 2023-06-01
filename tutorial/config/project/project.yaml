@@ -1,4 +1,4 @@
-dateModified: 1685632102
+dateModified: 1685634843
 email:
   fromEmail: peter.n.fleming@gmail.com
   fromName: tutorial
@@ -17,6 +17,7 @@ meta:
     1e27a7c2-551f-458e-aeed-34b964b2fa35: Bio # Bio
     3dc47c12-857f-4548-82de-3d0e23beda37: Images # Images
     4b0a7e0b-ed9b-4b3a-8c59-13acfddbdea1: Text # Text
+    04da89f2-3a77-428d-901f-3c35f0ccb546: Standard # Standard
     5bd68a93-167e-4584-8593-8b091fe3cfb0: Thumbnail # Thumbnail
     6e9c8123-a5de-46e3-9b47-0dfc6a9eeb7d: Topics # Topics
     7c38c861-9971-40c9-8938-8066391bc4b5: 'Post Content' # Post Content
